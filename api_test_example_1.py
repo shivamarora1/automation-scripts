@@ -1,5 +1,6 @@
-# 1. Install dependencies
-## pip install -U requests
+# GET request example
+## 1. Install dependencies
+### pip install -U requests
 import requests
 import json
 
